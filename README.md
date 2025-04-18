@@ -104,7 +104,7 @@ Then kill it with:
 kill <PID>
 ```
 5. Allow traffic on port 8080 in my EC2 security group settings.
-6. To access the hosted web application, visit [http://18.138.249.141:8080](http://18.138.249.141:8080)
+6. To access the hosted web application, visit [http://18.138.249.141:8080](http://18.138.249.141:8080) (terminated due to EC2 free tier usage amount)
 
 ## 🧪 Usage Instructions:
 - Drag and drop or browse to upload a file
